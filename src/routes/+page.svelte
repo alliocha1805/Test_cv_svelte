@@ -67,7 +67,7 @@
                     <div class="timeline-block timeline-block-left">
                        <div class="marker"></div>
                        <div class="timeline-content">
-                          <h3>Seconed Year</h3>
+                          <h3>Second Year</h3>
                           <span>Some work experience</span>
                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
                        </div>
@@ -120,7 +120,7 @@
                     <div class="timeline-block timeline-block-left">
                        <div class="marker"></div>
                        <div class="timeline-content">
-                          <h3>Seconed Year</h3>
+                          <h3>Second Year</h3>
                           <span>Some work experience</span>
                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
                        </div>
@@ -764,7 +764,7 @@
                 <h2>Contact</h2>
             </div>
             <div class="section">
-                <img src="assets/img/avatar-shadow.png" class="img_responsive" id=avatar>
+                <img src={avatar} class="img_responsive" id=avatar alt="avatar">
                 <div class="form_container">
                     <form action="" method="get" class="form-example">
                         <ul class="flex_outer">
