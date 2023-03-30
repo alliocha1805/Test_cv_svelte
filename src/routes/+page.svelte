@@ -39,7 +39,7 @@
         <!--Bloc Informations-->
         <div class="container" id="Informations">
             <div class="item" id="avatar">
-                <img src="$lib/images/avatar-shadow.png" class="img_responsive">
+                <img src="$lib/images/avatar-shadow.png" class="img_responsive" alt="avatar">
             </div>
             <div class="item" id="Informations_texte">
                 <p><span style="font-family: 'Roboto', sans-serif; font-size: 32px;font-weight: bold;">Alexis Piloy</span><br>
