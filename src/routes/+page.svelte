@@ -1,6 +1,5 @@
 <script>
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
+	import avatar from '$lib/images/avatar-shadow.png';
 </script>
 
 <svelte:head>
@@ -39,7 +38,7 @@
         <!--Bloc Informations-->
         <div class="container" id="Informations">
             <div class="item" id="avatar">
-                <img src="$lib/images/avatar-shadow.png" class="img_responsive" alt="avatar">
+                <img src={avatar} class="img_responsive" alt="avatar">
             </div>
             <div class="item" id="Informations_texte">
                 <p><span style="font-family: 'Roboto', sans-serif; font-size: 32px;font-weight: bold;">Alexis Piloy</span><br>
