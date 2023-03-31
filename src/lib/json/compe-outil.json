@@ -1,0 +1,14 @@
+{
+	"competences": [
+		{ "Gestion de projet": 5 },
+		{ "Methodes Agiles": 4 },
+		{ "Python": 3 },
+		{ "HTML/CSS": 3 },
+		{ "Javascript": 2 },
+		{ "Postman": 4 },
+		{ "patate": 1 },
+		{ "pomme": 5 },
+		{ "frites": 1 }
+	],
+	"outils": {}
+}

@@ -1,5 +1,10 @@
 <script>
-
+    import data from '$lib/json/compe-outil.json';
+    var size = 5; 
+    var listeBlocCompetences = [];
+    for (var i=0; i<data.length; i+=size) {
+    listeBlocCompetences.push(data.slice(i,i+size));
+}
 </script>
 
 <div class="item" id="bloc_competence">
