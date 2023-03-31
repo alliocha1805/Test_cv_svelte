@@ -1,8 +1,8 @@
 <script>
 	import avatar from '$lib/images/avatar-shadow.png';
-    import Hamburger from 'svelte-hamburgers@2';
+    // import Hamburger from 'svelte-hamburgers@2';
     import NavBar from './NavBar.svelte';
-    import NavBar2 from './NavBarFullSvelte.svelte';
+    // import NavBar2 from './NavBarFullSvelte.svelte';
     import ContactForm from './ContactForm.svelte';
     import Experiences from './Experiences.svelte';
     import Formation from './Formation.svelte';
@@ -32,7 +32,7 @@
             </div>
         </div>
         <!--Menu-->
-        <NavBar2 />
+        <NavBar />
         <!--Bouton retour au top-->
         <button onclick="topFunction()" id="goBackTop" title="Go to top"><svg width="24px" height="24px" viewBox="0 0 58 44" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M56 42.4435L29.9441 2.99996L2 42.4435" stroke="white" stroke-width="3"/></svg></button>
         <!--Bloc Informations-->
