@@ -1,8 +1,8 @@
 <script>
     import data from '$lib/json/compe-outil.json';
-    var size = 5; 
-    var listeBlocCompetences = [];
-    for (var i=0; i<data.length; i+=size) {
+    let size = 5; 
+    let listeBlocCompetences = [];
+    for (let i=0; i<data.length; i+=size) {
     listeBlocCompetences.push(data.slice(i,i+size));
 }
 </script>
