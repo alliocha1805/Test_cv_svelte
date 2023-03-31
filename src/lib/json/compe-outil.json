@@ -1,14 +1,24 @@
 {
 	"competences": [
 		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet2", "etoiles": 5 },
+		{ "nom": "Methodes Agiles", "etoiles": 4 },
+		{ "nom": "HTML/CSS", "etoiles": 4 },
+		{ "nom": "Python", "etoiles": 3 },
 		{ "nom": "Gestion de projet", "etoiles": 5 },
 		{ "nom": "Gestion de projet", "etoiles": 5 },
+		{ "nom": "Gestion de projet", "etoiles": 5 },
+		{ "nom": "Gestion de projet", "etoiles": 5 },
+		{ "nom": "Javascript", "etoiles": 2 }
+	],
+	"outils": [
+		{ "nom": "Postman", "etoiles": 4 },
+		{ "nom": "Pack Office", "etoiles": 5 },
+		{ "nom": "SoapUI", "etoiles": 4 },
+		{ "nom": "Swagger", "etoiles": 5 },
 		{ "nom": "Gestion de projet", "etoiles": 5 },
 		{ "nom": "Gestion de projet", "etoiles": 5 },
 		{ "nom": "Gestion de projet", "etoiles": 5 },
 		{ "nom": "Gestion de projet", "etoiles": 5 },
 		{ "nom": "Gestion de projet", "etoiles": 5 }
-	],
-	"outils": {}
+	]
 }
