@@ -54,4 +54,10 @@
     flex-direction : row;
     justify-content: space-between;
 }
+input {
+    width: 80%;
+}
+textarea{
+    width: 80%;
+}
 </style>

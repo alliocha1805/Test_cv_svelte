@@ -2,14 +2,14 @@
 </script>
 
 <div class="containerTimeline">
-
     <div class="timeline-block timeline-block-right">
         <div class="marker"></div>
         <div class="timeline-content">
           <h3>ESSCA Master 2 Digital</h3>
           <span>2009 - 2014</span>
           <p>Master 2 WebMarketing<br>
-            Mémoire « Impact de l’émotion sur la viralité d’une vidéo auprès des 18-25 ans » validé avec une note de 17.75/20</p>
+            Mémoire « Impact de l’émotion sur la viralité d’une vidéo auprès des 18-25 ans » validé avec une note de 17.75/20
+            </p>
         </div>
     </div>
   
@@ -22,3 +22,16 @@
         </div>
     </div>
   </div>
+
+<style>
+p {
+  color: black;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+span {
+  color:black;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
+</style>

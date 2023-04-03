@@ -77,6 +77,7 @@
         <div class="container" id="Projets">
             <div class="item">
                 <h2>Projets</h2>
+                <!-- Il fait une lightbox de projet , par exemple avec https://biggerpicture.henrygd.me/?ref=madewithsvelte.com -->
             </div>
         </div>
         <!--Bloc Contact-->
