@@ -13,24 +13,24 @@
         <form action="https://api.staticforms.xyz/submit" method="post" class="form-example" on:submit|preventDefault={submitForm}>
             <input type="hidden" name="accessKey" value={accessKey}>
             <ul class="flex_outer">
-                <li>
+                <li class="champFormContact">
                     <label for="nom">Votre Nom</label>
                     <input type="text" id="nom_contact" name="name" placeholder="John Doe">
                 </li>
-                <li>
+                <li class="champFormContact">
                     <label for="mail">Votre Mail</label>
                     <input type="mail" id="mail" name="email">
                 </li>
-                <li>
+                <li class="champFormContact">
                     <label for="mail">Sujet</label>
                     <input type="text" id="sujet" name="subject">
                 </li>
-                <li>
-                    <label for="mail">Votre Message</label>
+                <li class="champFormContact">
+                    <label for="mail">Message</label>
                     <textarea rows="6" id="message" name="message"></textarea>
                 </li>
                 <input type="text" name="honeypot" style="display: none;">
-                <li>
+                <li class="champFormContact">
                     <button type="submit">Envoyer</button>
                 </li>
             </ul>
@@ -41,3 +41,17 @@
     </div>
 
 </div>
+
+<style>
+.form_container{
+    flex-grow:1;
+}
+
+.champFormContact
+{
+    margin: 10px;
+    display : flex;
+    flex-direction : row;
+    justify-content: space-between;
+}
+</style>

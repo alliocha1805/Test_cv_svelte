@@ -15,10 +15,10 @@
 		{ "nom": "Pack Office", "etoiles": 5 },
 		{ "nom": "SoapUI", "etoiles": 4 },
 		{ "nom": "Swagger", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 }
+		{ "nom": "Wordpress", "etoiles": 4 },
+		{ "nom": "Trello / Kanbanize", "etoiles": 5 },
+		{ "nom": "Jira", "etoiles": 3 },
+		{ "nom": "Redmine", "etoiles": 4 },
+		{ "nom": "Dbeaver", "etoiles": 4 }
 	]
 }
