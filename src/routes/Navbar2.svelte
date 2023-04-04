@@ -13,7 +13,7 @@ onMount(() => {
     hamburger.classList.remove("active");
     navMenu.classList.remove("active");
   }))
-}
+};
 </script>
 
 <header>
