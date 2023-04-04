@@ -143,12 +143,6 @@ html {
 	#avatar {
 		display: none;
 	}
-	nav ul {
-		flex-direction: column;
-	}
-	nav ul li {
-		text-align: center;
-	}
 }
 
 @media only screen and (max-width: 640px) {
@@ -171,9 +165,7 @@ html {
 	#avatar {
 		display: none;
 	}
-	#navbar ul {
-		display: none;
-	}
+
 }
 
 nav {
