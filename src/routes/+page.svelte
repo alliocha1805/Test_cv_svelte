@@ -7,6 +7,7 @@
     import Formation from './Formation.svelte';
     import Competences from './Competences.svelte';
     import Outils from './Outils.svelte';
+    import Projets from './Projets.svelte';
 </script>
 
 <svelte:head>
