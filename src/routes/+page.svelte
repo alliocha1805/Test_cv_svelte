@@ -2,6 +2,7 @@
 	import avatar from '$lib/images/avatar-shadow.png';
     import NavBar from './NavBar.svelte';
     import NavBar2 from './Navbar2.svelte';
+    import NavBar3 from './NavBar3.svelte';
     import ContactForm from './ContactForm.svelte';
     import Experiences from './Experiences.svelte';
     import Formation from './Formation.svelte';

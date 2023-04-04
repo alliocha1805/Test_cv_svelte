@@ -1,43 +1,49 @@
 <script>
-import { onMount } from 'svelte';
-let hamburger
-let navMenu
+  import { onMount } from 'svelte';
 
-onMount(() => {
-  hamburger.addEventListener("click", () => {
-    hamburger.classList.toggle("active");
-    navMenu.classList.toggle("active");
-  })
+  let hamburger = false;
+  let navMenu = false;
 
-  document.querySelectorAll(".nav-link").forEach(n => n.addEventListener("click", () => {
-    hamburger.classList.remove("active");
-    navMenu.classList.remove("active");
-  }))
-};
+  onMount(() => {
+    // hamburger = document.querySelector(".hamburger");
+    // navMenu = document.querySelector(".nav-menu");
+    // hamburger.addEventListener("click", toggleMenu);
+    // document.querySelectorAll(".nav-link").forEach(n => n.addEventListener("click", closeMenu));
+  });
+
+  function toggleMenu() {
+    hamburger = !hamburger;
+    navMenu = !navMenu;
+  }
+
+  // function closeMenu() {
+  //   hamburger.classList.remove("active");
+  //   navMenu.classList.remove("active");
+  // }
 </script>
 
 <header>
    <div class="containerNav"> 
       <nav class="navbar">
-         <a href="#" class="nav-branding">DEV</a>
-         <ul bind:this={navMenu} class="nav-menu">
+         <a href="#" class="nav-branding">API</a>
+         <ul class="nav-menu" class:active={navMenu}>
             <li class="nav-item">
-               <a href="#Informations">Informations</a>
+               <a href="#Informations" on:click={toggleMenu}>Informations</a>
             </li>
             <li class="nav-item">
-               <a href="#experiences">Expériences</a>
+               <a href="#experiences" on:click={toggleMenu}>Expériences</a>
             </li>
             <li class="nav-item">
-               <a href="#Education">Education</a>
+               <a href="#Education" on:click={toggleMenu}>Education</a>
             </li>
             <li class="nav-item">
-               <a href="#Competences">Compétences</a>
+               <a href="#Competences" on:click={toggleMenu}>Compétences</a>
             </li>
             <li class="nav-item">
-               <a href="#Projets">Projets</a>
+               <a href="#Projets" on:click={toggleMenu}>Projets</a>
             </li>
          </ul>
-         <div bind:this={hamburger} class="hamburger">
+         <div class="hamburger" class:active={hamburger} on:click={toggleMenu}>
             <span class="bar"></span>
             <span class="bar"></span>
             <span class="bar"></span>
@@ -56,6 +62,9 @@ onMount(() => {
 }
 header{
   background-color: #2f4858;
+	position: sticky;
+	top: 0px;
+	z-index: 999999;
 }
 li{
   list-style: none;
@@ -63,6 +72,7 @@ li{
 a{
   color: white;
   text-decoration: none;
+  font-family: 'Roboto', sans-serif;
 }
 .containerNav{
   max-width: 1224px;
@@ -123,7 +133,7 @@ a{
     top: 70px;
     gap: 0;
     flex-direction: column;
-    background-color: #262626;
+    background-color: #2f4858;
     width: 100%;
     text-align: center;
     transition: 0.3s;

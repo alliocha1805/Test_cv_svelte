@@ -19,11 +19,11 @@
                 </li>
                 <li class="champFormContact">
                     <label for="mail">Votre Mail</label>
-                    <input type="mail" id="mail" name="email">
+                    <input type="mail" id="mail" name="email" placeholder="John.Doe@piloy.fr">
                 </li>
                 <li class="champFormContact">
                     <label for="mail">Sujet</label>
-                    <input type="text" id="sujet" name="subject">
+                    <input type="text" id="sujet" name="subject" placeholder="Demande de contact">
                 </li>
                 <li class="champFormContact">
                     <label for="mail">Message</label>
