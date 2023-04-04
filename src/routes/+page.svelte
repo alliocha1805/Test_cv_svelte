@@ -2,7 +2,6 @@
 	import avatar from '$lib/images/avatar-shadow.png';
     import NavBar from './NavBar.svelte';
     import NavBar2 from './Navbar2.svelte';
-    import NavBar3 from './NavBar3.svelte';
     import ContactForm from './ContactForm.svelte';
     import Experiences from './Experiences.svelte';
     import Formation from './Formation.svelte';
@@ -18,7 +17,7 @@
 
 <body style="margin: 0;">
         <!--Intro en mode Hero Banner-->
-        <div class="container" id="hero">
+        <!--<div class="container" id="hero">
             <div class="item" id="entete">
                 <p id="nom">Alexis Piloy</p>
                 <p id="fonction">Product Owner</p>
@@ -30,7 +29,7 @@
                     </svg>
                 </a>
             </div>
-        </div>
+        </div>-->
         <!--Menu-->
         <NavBar2 />
         <!--Bouton retour au top-->
