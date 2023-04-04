@@ -53,6 +53,47 @@ nav a:hover {
 	border-bottom: 5px solid white;
 }
 
+nav {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #2f4858;
+	position: sticky;
+	top: 0px;
+	z-index: 999999;
+}
+nav ul {
+	list-style-type: none;
+	margin-block-start: 0;
+	margin-block-end: 0;
+	height: inherit;
+	display: flex;
+	flex-direction: row;
+}
+nav ul li {
+	float: left;
+	text-align: center;
+	position: relative;
+	height: inherit;
+}
+nav ul::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+nav a {
+	display: block;
+	text-decoration: none;
+	color: white;
+	border-bottom: 2px solid transparent;
+	padding: 10px 0px;
+	font-family: 'Roboto', sans-serif;
+	height: 50%;
+}
+nav a:hover {
+	color: white;
+	border-bottom: 5px solid white;
+}
+
 @media only screen and (max-width: 768px) {
 	nav ul {
 		flex-direction: column;
