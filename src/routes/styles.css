@@ -244,8 +244,11 @@ h3 {
 	flex-direction: row;
 	align-items: center;
 	justify-content: space-between;
-	padding-right: 10%;
-	padding-left: 10%;
+	padding-right: 20%;
+	padding-left: 20%;
+}
+h3 {
+	text-align: center;
 }
 @media (min-width: 800px) {
 	#bloc_competence {
