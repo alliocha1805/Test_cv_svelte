@@ -9,13 +9,10 @@
 }
 </script>
 
-<!--{console.log(compeRaw)}
-{console.log(listeBlocCompetences)}-->
 <div class="item" id="bloc_competence">
     {#each listeBlocCompetences as blocCompe}
     <div class="bloc_compe">
         {#each blocCompe as competence}
-        <!--{console.log(competence)} -->
         <div class=skill>
             <p>{competence.nom}</p>
             <div class="starblock">
