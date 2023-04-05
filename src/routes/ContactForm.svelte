@@ -15,19 +15,19 @@
             <ul class="flex_outer">
                 <li class="champFormContact">
                     <label for="nom">Votre Nom</label>
-                    <input type="text" id="nom_contact" name="name" placeholder="John Doe">
+                    <input type="text" id="nom_contact" name="name" placeholder="John Doe" required>
                 </li>
                 <li class="champFormContact">
                     <label for="mail">Votre Mail</label>
-                    <input type="mail" id="mail" name="email" placeholder="John.Doe@piloy.fr">
+                    <input type="mail" id="mail" name="email" placeholder="John.Doe@piloy.fr" required>
                 </li>
                 <li class="champFormContact">
                     <label for="mail">Sujet</label>
-                    <input type="text" id="sujet" name="subject" placeholder="Demande de contact">
+                    <input type="text" id="sujet" name="subject" placeholder="Demande de contact" required>
                 </li>
                 <li class="champFormContact">
                     <label for="mail">Message</label>
-                    <textarea rows="6" id="message" name="message"></textarea>
+                    <textarea rows="6" id="message" name="message" required></textarea>
                 </li>
                 <input type="text" name="honeypot" style="display: none;">
                 <li class="champFormContact" id="ZoneboutonContact">
@@ -66,5 +66,7 @@ textarea{
 #boutonContact{
     width:81%;
     height:3em;
+    background-color : #2f4858;
+    color: white;
 }
 </style>
