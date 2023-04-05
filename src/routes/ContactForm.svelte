@@ -30,8 +30,8 @@
                     <textarea rows="6" id="message" name="message"></textarea>
                 </li>
                 <input type="text" name="honeypot" style="display: none;">
-                <li class="champFormContact">
-                    <button type="submit">Envoyer</button>
+                <li class="champFormContact" id="ZoneboutonContact">
+                    <button type="submit" id="boutonContact">Envoyer</button>
                 </li>
             </ul>
           </form>
@@ -59,5 +59,12 @@ input {
 }
 textarea{
     width: 80%;
+}
+#ZoneboutonContact{
+    justify-content: flex-end;
+}
+#boutonContact{
+    width:81%;
+    height:3em;
 }
 </style>

@@ -43,7 +43,7 @@
             <div class="item" id="Informations_texte">
                 <p><span style="font-family: 'Roboto', sans-serif; font-size: 32px;font-weight: bold;">Alexis Piloy</span><br>
                 <span style="font-family: 'Roboto', sans-serif; font-size: 24px;font-weight: bold;">Product Owner</span></p>
-                <p style="font-family: 'Roboto', sans-serif; font-size: 18px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae nulla bibendum magna rhoncus convallis vel eget eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan metus sit amet magna semper, et ultricies eros accumsan. Nullam condimentum ut libero nec consequat. Aliquam erat volutpat. Morbi vulputate eros sit amet eleifend finibus. Cras congue nisl eget mauris luctus, a tristique neque maximus. Suspendisse porttitor auctor gravida. Nam vel augue pretium nunc efficitur vulputate. Nulla vitae risus non dolor finibus blandit vitae vel orci.</p>
+                <p style="font-family: 'Roboto', sans-serif; font-size: 18px; text-align: justify;">Je suis Alexis Piloy, un product owner spécialisé dans les sujets Data, API, EDI et la tech. Fort de plusieurs années d'expérience dans le domaine, j'ai développé une expertise pointue dans la gestion de projets liés à la collecte, l'analyse et l'exploitation des données. Passionné par les nouvelles technologies, je m'attache à rester constamment à l'affût des dernières tendances pour proposer des solutions innovantes et efficaces. Mes compétences en matière de communication, de négociation et de gestion d'équipe me permettent de travailler efficacement en collaboration avec différents acteurs pour garantir la réussite de chaque projet.</p>
                 <p><a href="https://www.linkedin.com/in/alexis-piloy/" target="_blank" style ="color: grey; text-decoration: underline;" rel="external nofollow">Linkedin</a> / <a href="https://github.com/alliocha1805" target="_blank" style ="color: grey; text-decoration: underline;" rel="external nofollow">Github</a></p>
                 <a href=# class="bouton" id="download_cv_button" style="margin-bottom: 10px;">Télécharger mon CV</a>
                 <a href="#Contact" class="bouton" style="margin-bottom: 10px;">Me contacter</a>
@@ -74,12 +74,12 @@
             <Outils />
         </div>
         <!--Bloc Projets-->
-        <div class="container" id="Projets">
+        <!--<div class="container" id="Projets">
             <div class="item">
                 <h2>Projets</h2>
                 <Projets />
             </div>
-        </div>
+        </div>-->
         <!--Bloc Contact-->
         <div class="container" id="Contact">
             <div class="item">
