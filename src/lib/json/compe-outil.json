@@ -1,24 +1,26 @@
 {
 	"competences": [
 		{ "nom": "Gestion de projet", "etoiles": 5 },
+		{ "nom": "Esprit d'analyse", "etoiles": 5 },
+		{ "nom": "Communication", "etoiles": 5 },
 		{ "nom": "Methodes Agiles", "etoiles": 4 },
 		{ "nom": "HTML/CSS", "etoiles": 4 },
+		{ "nom": "Recette", "etoiles": 4 },
 		{ "nom": "Python", "etoiles": 3 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Gestion de projet", "etoiles": 5 },
-		{ "nom": "Javascript", "etoiles": 2 }
+		{ "nom": "UX", "etoiles": 3 },
+		{ "nom": "Javascript", "etoiles": 2 },
+		{ "nom": "Machine Learning", "etoiles": 1 }
 	],
 	"outils": [
-		{ "nom": "Postman", "etoiles": 4 },
 		{ "nom": "Pack Office", "etoiles": 5 },
-		{ "nom": "SoapUI", "etoiles": 4 },
-		{ "nom": "Swagger", "etoiles": 5 },
-		{ "nom": "Wordpress", "etoiles": 4 },
 		{ "nom": "Trello / Kanbanize", "etoiles": 5 },
-		{ "nom": "Jira", "etoiles": 3 },
+		{ "nom": "Swagger", "etoiles": 5 },
+		{ "nom": "SoapUI", "etoiles": 4 },
+		{ "nom": "Postman", "etoiles": 4 },
+		{ "nom": "Wordpress", "etoiles": 4 },
 		{ "nom": "Redmine", "etoiles": 4 },
-		{ "nom": "Dbeaver", "etoiles": 4 }
+		{ "nom": "Dbeaver", "etoiles": 4 },
+		{ "nom": "Jira", "etoiles": 3 },
+		{ "nom": "Svelte / SvelteKit", "etoiles": 2 }
 	]
 }
