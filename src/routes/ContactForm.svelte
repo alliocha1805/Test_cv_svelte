@@ -69,4 +69,12 @@ textarea{
     background-color : #2f4858;
     color: white;
 }
+@media (max-width: 800px) {
+ul{
+    padding:0;
+}
+label{
+    width:20%;
+}
+}
 </style>
