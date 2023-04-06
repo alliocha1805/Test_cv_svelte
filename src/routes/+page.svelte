@@ -13,8 +13,7 @@
 
 <svelte:head>
 	<title>Alexis PILOY - Product Owner</title>
-	<link rel="preconnect" href="fonts.gstatic.com">
-	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+
 </svelte:head>
 
 <body style="margin: 0;">
