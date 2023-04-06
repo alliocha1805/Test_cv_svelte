@@ -39,9 +39,9 @@
             <li class="nav-item">
                <a href="#Competences" on:click={toggleMenu}>Compétences</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
                <a href="#Projets" on:click={toggleMenu}>Projets</a>
-            </li>
+            </li>-->
          </ul>
          <div class="hamburger" class:active={hamburger} on:click={toggleMenu}>
             <span class="bar"></span>
