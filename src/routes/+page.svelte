@@ -1,6 +1,6 @@
 <script>
 	import avatar from '$lib/images/avatar-shadow.png';
-    import CvPDF from '$lib/pdf/cv_alexis_piloy_old.pdf';
+    import CvPDF from '$lib/pdf/cv_alexis_piloy_2023.pdf';
     import NavBar from './NavBar.svelte';
     import NavBar2 from './Navbar2.svelte';
     import ContactForm from './ContactForm.svelte';
