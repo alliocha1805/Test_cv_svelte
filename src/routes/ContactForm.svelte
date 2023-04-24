@@ -7,7 +7,7 @@
 </script>
 
 <div class="section">
-    <img src={avatar} class="img_responsive" id=avatar alt="avatar">
+    <img src={avatar} class="img_responsive" id=avatar alt="avatar" loading="lazy">
     <div class="form_container">
         {#if !formSubmitted}
         <form action="https://api.staticforms.xyz/submit" method="post" class="form-example" on:submit|preventDefault={submitForm}>
@@ -22,12 +22,12 @@
                     <input type="mail" id="mail" name="email" placeholder="John.Doe@piloy.fr" required>
                 </li>
                 <li class="champFormContact">
-                    <label for="mail">Sujet</label>
+                    <label for="sujet">Sujet</label>
                     <input type="text" id="sujet" name="subject" placeholder="Demande de contact" required>
                 </li>
                 <li class="champFormContact">
-                    <label for="mail">Message</label>
-                    <textarea rows="6" id="message" name="message" required></textarea>
+                    <label for="message">Message</label>
+                    <textarea rows="6" id="message" name="message" placeholder="Votre message" required></textarea>
                 </li>
                 <input type="text" name="honeypot" style="display: none;">
                 <li class="champFormContact" id="ZoneboutonContact">
