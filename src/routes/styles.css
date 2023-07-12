@@ -209,9 +209,11 @@ html {
 	flex-direction: column;
 	justify-content: center;
 }
+/*
 #Contact {
 	flex-direction: column;
 }
+*/
 a {
 	color: white;
 	text-decoration: none;

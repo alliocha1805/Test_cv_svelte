@@ -48,7 +48,7 @@
                 <p style="font-family: 'Roboto', sans-serif; font-size: 18px; text-align: justify;">Je suis Alexis Piloy, un product owner spécialisé dans les sujets Data, API, EDI et la tech. Fort de plusieurs années d'expérience dans le domaine, j'ai développé une expertise pointue dans la gestion de projets liés à la collecte, l'analyse et l'exploitation des données. Passionné par les nouvelles technologies, je m'attache à rester constamment à l'affût des dernières tendances pour proposer des solutions innovantes et efficaces. Mes compétences en matière de communication, de négociation et de gestion d'équipe me permettent de travailler efficacement en collaboration avec différents acteurs pour garantir la réussite de chaque projet.</p>
                 <p><a href="https://www.linkedin.com/in/alexis-piloy/" target="_blank" style ="color: black; text-decoration: underline;" rel="external nofollow">Linkedin</a> / <a href="https://github.com/alliocha1805" target="_blank" style ="color: black; text-decoration: underline;" rel="external nofollow">Github</a></p>
                 <a href={CvPDF} target="_blank" rel="external nofollow" class="bouton" id="download_cv_button" style="margin-bottom: 10px;">Télécharger mon CV</a>
-                <a href="#Contact" class="bouton" style="margin-bottom: 10px;">Me contacter</a>
+                <!--<a href="#Contact" class="bouton" style="margin-bottom: 10px;">Me contacter</a>-->
             </div>
         </div>
         <!--Bloc Expériences-->
