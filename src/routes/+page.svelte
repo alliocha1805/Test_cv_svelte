@@ -83,12 +83,12 @@
             </div>
         </div>-->
         <!--Bloc Contact-->
-        <div class="container" id="Contact">
+        <!--<div class="container" id="Contact">
             <div class="item">
                 <h2>Contact</h2>
             </div>
         <ContactForm />
-        </div>
+        </div>-->
         <script>
             //Get the button
             var mybutton = document.getElementById("goBackTop");
