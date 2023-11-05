@@ -11,13 +11,13 @@
           <h3>Product Owner Data / API - Stelliant</h3>
           <span>2022 - Présent</span>
           <p>
-            Gestion du Backlog et des Users Stories en methode Agile SaFe<br>
+            Gestion du Backlog et des Users Stories en méthode Agile SaFe<br>
             Priorisation et accompagnement des expert assurance sur la mise en place technique de leurs besoins<br>
-            Conception technico-fonctionelle des EDI / API<br>
+            Conception technico-fonctionnelle des EDI / API<br>
             Ecriture des Contrats d'interface WS/API (Swagger / XSD)<br>
-            Conception de l'ordonnancement des echanges de data<br>
-            Recherche et Developpement sur les sujets d'IA (catégorisation / Prediction)
-            Creation d'outil d'automatisation en Python <br>
+            Conception de l'ordonnancement des échanges de data<br>
+            Recherche et Développement sur les sujets d'IA (catégorisation / Prédiction) <br>
+            Création d'outil d'automatisation en Python <br>
           </p>
         </div>
     </div>
@@ -44,7 +44,7 @@
             Rédaction de spécification fonctionnelle<br>
             Livraison TFS des release (Préproduction et Production)<br>
             Recette Technico-fonctionnelle<br>
-            Creation d'outil d'automatisation en Python <br>
+            Création d'outil d'automatisation en Python <br>
           </p>
         </div>
     </div>
@@ -56,9 +56,9 @@
           <span>Mai 2018 - Decembre 2021</span>
           <p>
           Consultant Product Owner
-          Conception(UX/UI) et developpement d'une webApp de gestion des collaborateurs et editique pour le cabinet avec la Stack suivante : Bootstrap / Python Django / gunicorn / CentOs
+          Conception (UX/UI) et développement d'une webApp de gestion des collaborateurs et éditique pour le cabinet avec la Stack suivante : Bootstrap / Python Django / gunicorn / CentOs
           Recherche pour le cabinet sur les bonnes pratiques Produit
-          Audit techni-fonctionnel des sites du cabinet
+          Audit technico-fonctionnel des sites du cabinet
           </p>
         </div>
     </div>
@@ -70,7 +70,7 @@
           <span>2015 - 2018</span>
           <p>
             Gestion de projet (recueil besoin / Cahiers des charges / Wireframing / UX / Gestion relation agence créa / Spécification fonctionnelles /Gestion de la relation avec les équipes de dev / recette)<br>
-            Développement de solution métiers pour aider la gestion de projet(Python)<br>
+            Développement de solution métiers pour aider la gestion de projet (Python)<br>
             Conseil et optimisation des performances (réseaux sociaux / Mailing / UX)<br>
             Analyse Analytics (Google Analytics / Xiti / Estat)<br>
             Veille technologique et WebMarketing du pôle digital (Rédacteur en chef de la Newsletter Interne sur le sujet)
@@ -84,7 +84,7 @@
           <span>2014 - 2014</span>
           <p>
           Gestion de projet digital du calculateur de crédit / assurance Cardif <br>
-          Etude de besoin / développement / maintient d’un site éditorial Wordpress sur la “Silver Economie”
+          Etude de besoin / développement / maintien d’un site éditorial Wordpress sur la “Silver Economie”
           </p>
         </div>
     </div>

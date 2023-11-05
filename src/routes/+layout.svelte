@@ -3,7 +3,7 @@
 	import './styles.css';
 </script>
 
-<div class="app">
+<div class="app" lang="fr">
 	<Header />
 
 	<main>
