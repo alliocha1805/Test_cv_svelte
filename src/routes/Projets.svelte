@@ -1,5 +1,5 @@
 <script>
-  import projetVLC from '$lib/images/vlc.jpg';
+  import projetVLC from '$lib/images/github.jpg';
 </script>
 <!-- Il fait une lightbox de projet , par exemple avec https://biggerpicture.henrygd.me/?ref=madewithsvelte.com -->
 <div class="projectGrid">
