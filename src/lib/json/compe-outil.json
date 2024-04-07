@@ -12,6 +12,7 @@
 		{ "nom": "Javascript", "etoiles": 2 },
 		{ "nom": "Svelte / SvelteKit", "etoiles": 2 },
 		{ "nom": "LLM", "etoiles": 3 },
+		{ "nom": "Big Data", "etoiles": 3 },
 		{ "nom": "Machine Learning", "etoiles": 2 }
 	],
 	"outils": [
@@ -25,6 +26,9 @@
 		{ "nom": "Dbeaver", "etoiles": 4 },
 		{ "nom": "Jira", "etoiles": 3 },
 		{ "nom": "ChatGPT", "etoiles": 3 },
+		{ "nom": "Snowflake", "etoiles": 3 },
+		{ "nom": "Airbyte", "etoiles": 3 },
+		{ "nom": "DBT", "etoiles": 3 },
 		{ "nom": "Langchain", "etoiles": 3 },
 		{ "nom": "Langsmith", "etoiles": 3 },
 		{ "nom": "Google Colab", "etoiles": 3 },
