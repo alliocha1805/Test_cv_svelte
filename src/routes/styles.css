@@ -42,15 +42,6 @@ html {
 		font-size: 18px; /* Increase font size */
 	}
 }
-#hero {
-	flex-direction: column;
-	height: 100vh;
-	background: url('$lib/images/intro.jpg') no-repeat center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
 
 .item {
 	display: flex;
