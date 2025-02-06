@@ -13,6 +13,8 @@
           <p>
             Gestion du Backlog et des Users Stories en méthode Agile SaFe<br>
             Priorisation et accompagnement des expert assurance sur la mise en place technique de leurs besoins<br>
+            Mise en place d'une plateforme Big Data complète (Snowflake / Airbyte / DBT / Dagster)<br>
+            Conception de modèle de donnée BI <br>
             Conception technico-fonctionnelle des EDI / API<br>
             Ecriture des Contrats d'interface WS/API (Swagger / XSD)<br>
             Conception de l'ordonnancement des échanges de data<br>
