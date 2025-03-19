@@ -8,17 +8,17 @@
     <div class="timeline-block timeline-block-right">
         <div class="marker"></div>
         <div class="timeline-content">
-          <h3>Product Owner Data / API - Stelliant</h3>
+          <h3>Product Owner Data(Big Data / API / IA) - Stelliant</h3>
           <span>2022 - Présent</span>
           <p>
             Gestion du Backlog et des Users Stories en méthode Agile SaFe<br>
-            Priorisation et accompagnement des expert assurance sur la mise en place technique de leurs besoins<br>
+            Priorisation et accompagnement des expert assurance sur la mise en place technique de leurs besoins DATA<br>
             Mise en place d'une plateforme Big Data complète (Snowflake / Airbyte / DBT / Dagster)<br>
             Conception de modèle de donnée BI <br>
-            Conception technico-fonctionnelle des EDI / API<br>
-            Ecriture des Contrats d'interface WS/API (Swagger / XSD)<br>
+            Conception technico-fonctionnelle des EDI / API grace à notre outil interne Neurone (Java Spring)<br>
+            Ecriture des Contrats d'interface API (Swagger / XSD)<br>
             Conception de l'ordonnancement des échanges de data<br>
-            Recherche et Développement sur les sujets d'IA (catégorisation / Prédiction) <br>
+            Recherche et Développement sur les sujets d'IA (catégorisation / Prédiction / Text-To-speech / LLM) <br>
             Création d'outil d'automatisation en Python <br>
           </p>
         </div>
